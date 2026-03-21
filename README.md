@@ -34,8 +34,8 @@
    ```bash
    python -m venv .venv
    .venv\Scripts\activate
-pip install -r requirements.txt
-python main.py
+   pip install -r requirements.txt
+   python main.py
 
 # Для запуска на "чистом" компьютере:
 1. Соберите проект на своей машине.
