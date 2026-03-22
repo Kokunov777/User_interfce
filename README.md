@@ -1,4 +1,4 @@
-## Часть 1 
+## Часть 1 https://github.com/Kokunov777/User_interfce
 ## часть 2 https://github.com/Kokunov777/lexical_analyzer_scanner
 # Лабораторная работа №1: Редактор текста с графическим интерфейсом
 
