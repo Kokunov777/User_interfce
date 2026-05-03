@@ -42,7 +42,3 @@
 1. Соберите проект на своей машине.
 2. Скопируйте **всю папку** `dist/gui_editor` на целевой ПК.
 3. Запустите `gui_editor.exe` из этой папки.
-
-# проще
-из проекта на github просто скачайте файл dist  и он откроеться. 
-<img width="627" height="799" alt="image" src="https://github.com/user-attachments/assets/df5bcfab-5630-4583-8e36-0298266b1314" />
